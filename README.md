@@ -49,8 +49,8 @@ Researched cyberbullying as a case study and prepared a prevention checklist wit
 
 Useful Links
 - [Google Form Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfqu4NOqBWG6LQuhTMHoOCUI0zRMFmfmTPhvkJ04G9fAOVaxw/viewform)
-- [GitHub Profile](Insert your GitHub profile link here)
-- [LinkedIn Profile](Insert your LinkedIn profile link here)
+- [GitHub Profile](https://github.com/anushka25bai11284-ship-it)
+- [LinkedIn Profile](https://www.linkedin.com/in/anushka-dubey-3a7975368/)
 
 References
 - Canva (Infographic Design) – canva.com
